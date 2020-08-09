@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292957292417",
+    "firebase_url": "https://srm-classroom.firebaseio.com",
+    "project_id": "srm-classroom",
+    "storage_bucket": "srm-classroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292957292417:android:c817bf072b9a541d81ca80",
+        "android_client_info": {
+          "package_name": "com.njain.srmclassroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292957292417-hp9fb1go1e3ghpgneruoqqd2v2l9t4sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEpdhcq6MMZmstiaSc4oySkeiFwABld_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292957292417-hp9fb1go1e3ghpgneruoqqd2v2l9t4sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
